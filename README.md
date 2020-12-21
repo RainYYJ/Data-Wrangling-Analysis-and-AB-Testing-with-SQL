@@ -1,5 +1,5 @@
 # Data-Wrangling-Analysis-and-AB-Testing-with-SQL
-Final project for Data Wrangling, Analysis and AB Testing with SQL Code was run on Mode Analytics.
+Final project for [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting/home/welcome) Code was run on Mode Analytics.
 
 Assignment Tasks
 
