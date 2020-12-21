@@ -1,0 +1,2 @@
+--For orders_bin: lift is -15% – 11% (-2.2%) and pval is 0.74
+--For views_bin: lift is and pval is -2.1% – 5.9% (1.9%) and pval is 0.36
