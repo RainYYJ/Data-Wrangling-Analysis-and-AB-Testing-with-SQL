@@ -5,7 +5,7 @@
 SELECT 
 view_binary.test_assignment,
 COUNT(distinct view_binary.item_id) as order_numbers,
-SUM(view_binary.test_assignment) as sum_view_bin_30d
+SUM(view_binary) as sum_view_bin_30d
 FROM
   (select 
     assignments.item_id,
